@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Ejercicio2-4\\Ejercicio2-4.csproj": {}
+    "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Ejercicio2-4\\Ejercicio2-4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\more\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\more\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Ejercicio2-4\\Ejercicio2-4.csproj": {
+    "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Ejercicio2-4\\Ejercicio2-4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Ejercicio2-4\\Ejercicio2-4.csproj",
+        "projectUniqueName": "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Ejercicio2-4\\Ejercicio2-4.csproj",
         "projectName": "Ejercicio2-4",
-        "projectPath": "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Ejercicio2-4\\Ejercicio2-4.csproj",
+        "projectPath": "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Ejercicio2-4\\Ejercicio2-4.csproj",
         "packagesPath": "C:\\Users\\more\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Ejercicio2-4\\obj\\",
+        "outputPath": "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Ejercicio2-4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\more\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Biblioteca\\Biblioteca.csproj": {
-                "projectPath": "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Biblioteca\\Biblioteca.csproj"
+              "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Biblioteca\\Biblioteca.csproj"
               }
             }
           }

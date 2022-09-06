@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Ejercicio1-8\\Ejercicio1-8.csproj",
+      "projectUniqueName": "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Ejercicio1-8\\Ejercicio1-8.csproj",
       "projectName": "Ejercicio1-8",
-      "projectPath": "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Ejercicio1-8\\Ejercicio1-8.csproj",
+      "projectPath": "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Ejercicio1-8\\Ejercicio1-8.csproj",
       "packagesPath": "C:\\Users\\more\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Ejercicio1-8\\obj\\",
+      "outputPath": "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Ejercicio1-8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\more\\AppData\\Roaming\\NuGet\\NuGet.Config",

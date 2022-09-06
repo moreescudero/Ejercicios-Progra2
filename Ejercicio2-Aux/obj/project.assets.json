@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Ejercicio2-Aux\\Ejercicio2-Aux.csproj",
+      "projectUniqueName": "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Ejercicio2-Aux\\Ejercicio2-Aux.csproj",
       "projectName": "Ejercicio2-Aux",
-      "projectPath": "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Ejercicio2-Aux\\Ejercicio2-Aux.csproj",
+      "projectPath": "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Ejercicio2-Aux\\Ejercicio2-Aux.csproj",
       "packagesPath": "C:\\Users\\more\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\more\\source\\repos\\EjerciciosEnClase-MorenaEscudero\\Ejercicio2-Aux\\obj\\",
+      "outputPath": "C:\\Users\\more\\Desktop\\EjerciciosProgra2D-MorenaEscudero\\Ejercicio2-Aux\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\more\\AppData\\Roaming\\NuGet\\NuGet.Config",

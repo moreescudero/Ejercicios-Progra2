@@ -10,3 +10,15 @@ C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Biblioteca\obj\Debug
 C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
 C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
 C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
