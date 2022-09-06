@@ -15,7 +15,7 @@ namespace EjercicioClase5_9
             Stack<Producto> alfajores = new Stack<Producto>();
             Stack<Producto> chicles = new Stack<Producto>();
 
-            float num = MetodosIngreso.IngresarFloat("dame un num owo", 10, 0);
+            
 
             maquinaExpendedora.Add(1, new Producto("Coca Cola", 100));
             maquinaExpendedora.Add(2, new Producto("Pepsi", 90));
