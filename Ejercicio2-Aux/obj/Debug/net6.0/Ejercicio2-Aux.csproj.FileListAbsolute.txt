@@ -1,0 +1,15 @@
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\bin\Debug\net6.0\Ejercicio2-Aux.exe
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\bin\Debug\net6.0\Ejercicio2-Aux.deps.json
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\bin\Debug\net6.0\Ejercicio2-Aux.runtimeconfig.json
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\bin\Debug\net6.0\Ejercicio2-Aux.dll
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\bin\Debug\net6.0\Ejercicio2-Aux.pdb
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\obj\Debug\net6.0\Ejercicio2-Aux.csproj.AssemblyReference.cache
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\obj\Debug\net6.0\Ejercicio2-Aux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\obj\Debug\net6.0\Ejercicio2-Aux.AssemblyInfoInputs.cache
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\obj\Debug\net6.0\Ejercicio2-Aux.AssemblyInfo.cs
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\obj\Debug\net6.0\Ejercicio2-Aux.csproj.CoreCompileInputs.cache
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\obj\Debug\net6.0\Ejercicio2-Aux.dll
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\obj\Debug\net6.0\refint\Ejercicio2-Aux.dll
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\obj\Debug\net6.0\Ejercicio2-Aux.pdb
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\obj\Debug\net6.0\Ejercicio2-Aux.genruntimeconfig.cache
+C:\Users\more\source\repos\EjerciciosEnClase-MorenaEscudero\Ejercicio2-Aux\obj\Debug\net6.0\ref\Ejercicio2-Aux.dll
