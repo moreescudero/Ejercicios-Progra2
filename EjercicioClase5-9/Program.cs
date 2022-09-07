@@ -10,43 +10,53 @@ namespace EjercicioClase5_9
         {
             bool continuar;
             int llave;
-            Dictionary<int, Producto> maquinaExpendedora = new Dictionary<int, Producto>();
+            Dictionary<int, Stack<Producto>> maquinaExpendedora = new Dictionary<int, Stack<Producto>>();
             Stack<Producto> papasFritas = new Stack<Producto>();
             Stack<Producto> alfajores = new Stack<Producto>();
             Stack<Producto> chicles = new Stack<Producto>();
 
-            
+            papasFritas.Push(new Producto("Papitas", 200));
+            papasFritas.Push(new Producto("Papitas", 200));
+            papasFritas.Push(new Producto("Papitas", 200));
+            papasFritas.Push(new Producto("Papitas", 200));
 
-            maquinaExpendedora.Add(1, new Producto("Coca Cola", 100));
-            maquinaExpendedora.Add(2, new Producto("Pepsi", 90));
-            maquinaExpendedora.Add(3, new Producto("7 Up", 85));
-            maquinaExpendedora.Add(4, new Producto("Sprite", 90));
-            maquinaExpendedora.Add(5, new Producto("Fanta", 99));
-            maquinaExpendedora.Add(6, new Producto("Mirinda", 90));
-            maquinaExpendedora.Add(7, new Producto("Brahma", 110));
-            maquinaExpendedora.Add(8, new Producto("Heineken", 120));
-            maquinaExpendedora.Add(9, new Producto("Manaos", 85));
-            maquinaExpendedora.Add(10, new Producto("Corona", 150));
+            alfajores.Push(new Producto("Alfajor", 200));
+            alfajores.Push(new Producto("Alfajor", 200));
+            alfajores.Push(new Producto("Alfajor", 200));
+            alfajores.Push(new Producto("Alfajor", 200));
+        
+            chicles.Push(new Producto("Chicle", 100));
+            chicles.Push(new Producto("Chicle", 100));
+            chicles.Push(new Producto("Chicle", 100));
+            chicles.Push(new Producto("Chicle", 100));
+
+
+            maquinaExpendedora.Add(1, papasFritas);
+            maquinaExpendedora.Add(2, alfajores);
+            maquinaExpendedora.Add(3, chicles);
 
             do
             {
-                foreach (KeyValuePair<int, Producto> item in maquinaExpendedora)
+                foreach (KeyValuePair<int, Stack<Producto>> item in maquinaExpendedora)
                 {
-                    Console.WriteLine("{0} - {1} - ${2}", item.Key, item.Value.Nombre, item.Value.Precio);
+                    Console.WriteLine("{0} - {1} - ${2} - {3}", item.Key, item.Value.Peek().Nombre, item.Value.Peek().Precio, item.Value.Count);
                 }
-                Console.WriteLine("Ingrese el numero de la bebida que desea comprar: ");
-                string? numeroIngresado = Console.ReadLine();
-                bool esNumerica = int.TryParse(numeroIngresado, out llave);
 
-                if(esNumerica)
+                llave = MetodosIngreso.IngresarInt("Ingrese el numero del producto que desea comprar:", 4, 0);
+                
+                if (maquinaExpendedora[llave].Count > 0)
                 {
-                    Console.WriteLine(maquinaExpendedora[llave].Nombre);
-                    maquinaExpendedora.Remove(llave);
+                    Console.WriteLine(maquinaExpendedora[llave].Peek().Nombre);
+                    maquinaExpendedora[llave].Pop();
 
-                    Console.WriteLine("¿Desea sacar otra bebida? (S/N)");
-                    string? respuesta = Console.ReadLine();
+                    string? respuesta = MetodosIngreso.IngresarString("¿Desea sacar otra producto? (S/N)");
+
                     if (respuesta == "S" || respuesta == "s")
-                    {
+                    {   
+                        if(maquinaExpendedora[llave].Count == 0)
+                        {
+                            maquinaExpendedora.Remove(llave);
+                        }
                         continuar = true;
                     }
                     else

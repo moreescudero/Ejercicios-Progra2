@@ -64,13 +64,49 @@ namespace Biblioteca
 
             return numero;
         }
-        public static float IngresarFloat(string? mensaje, int maximo, int minimo)
+        public static float IngresarFloat(string? mensaje, float maximo, float minimo)
         {
             float numero = IngresarFloat(mensaje);
             while(numero < minimo || numero > maximo)
             {
                 Console.WriteLine("ERROR");
                 numero = IngresarFloat(mensaje);
+            }
+            return numero;
+        }
+
+        public static decimal IngresarDecimal(string? mensaje)
+        {
+            decimal numero = 0;
+            bool esNumerica;
+            string? numeroIngresado;
+
+            do
+            {
+                Console.WriteLine(mensaje);
+                numeroIngresado = Console.ReadLine();
+                esNumerica = EsNumerica(numeroIngresado);
+                if (esNumerica)
+                {
+                    decimal.TryParse(numeroIngresado, out numero);
+                }
+                else
+                {
+                    Console.WriteLine("ERROR");
+                }
+
+            } while (!esNumerica);
+
+            return numero;
+        }
+
+        public static decimal IngresarDecimal(string? mensaje, decimal maximo, decimal minimo)
+        {
+            decimal numero = IngresarDecimal(mensaje);
+            while (numero < minimo || numero > maximo)
+            {
+                Console.WriteLine("ERROR");
+                numero = IngresarDecimal(mensaje);
             }
             return numero;
         }
@@ -159,5 +195,7 @@ namespace Biblioteca
 
             return palabra;
         }
+
+        
     }
 }

@@ -28,7 +28,6 @@ namespace EjercicioClase5_9
                 }
                 else
                 {
-                    Console.WriteLine("ERROR >:@");
                     return "ERROR";
                 }
             }
