@@ -43,11 +43,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio2-7", "Ejercicio2-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio2-8", "Ejercicio2-8\Ejercicio2-8.csproj", "{9B0E7618-AD23-48A5-9457-01A572902A92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2-Aux", "Ejercicio2-Aux\Ejercicio2-Aux.csproj", "{AB5723E3-1965-4CDE-BD81-070954A7CFFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio2-Aux", "Ejercicio2-Aux\Ejercicio2-Aux.csproj", "{AB5723E3-1965-4CDE-BD81-070954A7CFFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio3-1", "Ejercicio3-1\Ejercicio3-1.csproj", "{1C88117B-FDF5-4995-BA7A-3EB6BE7ED50F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio3-1", "Ejercicio3-1\Ejercicio3-1.csproj", "{1C88117B-FDF5-4995-BA7A-3EB6BE7ED50F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioClase5-9", "EjercicioClase5-9\EjercicioClase5-9.csproj", "{8639D968-3FFE-4BAE-858E-C65CE7C0D935}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioClase5-9", "EjercicioClase5-9\EjercicioClase5-9.csproj", "{8639D968-3FFE-4BAE-858E-C65CE7C0D935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio3-2", "Ejercicio3-2\Ejercicio3-2.csproj", "{C8C5B908-E2D0-4E64-A49B-BC3C2D472954}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{8639D968-3FFE-4BAE-858E-C65CE7C0D935}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8639D968-3FFE-4BAE-858E-C65CE7C0D935}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8639D968-3FFE-4BAE-858E-C65CE7C0D935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C5B908-E2D0-4E64-A49B-BC3C2D472954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C5B908-E2D0-4E64-A49B-BC3C2D472954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C5B908-E2D0-4E64-A49B-BC3C2D472954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C5B908-E2D0-4E64-A49B-BC3C2D472954}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -158,6 +164,7 @@ Global
 		{9B0E7618-AD23-48A5-9457-01A572902A92} = {B8716181-9B42-45AE-9592-889CB107D8CC}
 		{AB5723E3-1965-4CDE-BD81-070954A7CFFB} = {B8716181-9B42-45AE-9592-889CB107D8CC}
 		{1C88117B-FDF5-4995-BA7A-3EB6BE7ED50F} = {83931676-ABCF-498C-BA0F-876C57BDD4CC}
+		{C8C5B908-E2D0-4E64-A49B-BC3C2D472954} = {83931676-ABCF-498C-BA0F-876C57BDD4CC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CF0303EF-36B0-4CB1-A913-5681B512101D}
