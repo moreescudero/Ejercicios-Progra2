@@ -1,0 +1,15 @@
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\bin\Debug\net6.0\EjercicioClase19-9.exe
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\bin\Debug\net6.0\EjercicioClase19-9.deps.json
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\bin\Debug\net6.0\EjercicioClase19-9.runtimeconfig.json
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\bin\Debug\net6.0\EjercicioClase19-9.dll
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\bin\Debug\net6.0\EjercicioClase19-9.pdb
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\obj\Debug\net6.0\EjercicioClase19-9.csproj.AssemblyReference.cache
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\obj\Debug\net6.0\EjercicioClase19-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\obj\Debug\net6.0\EjercicioClase19-9.AssemblyInfoInputs.cache
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\obj\Debug\net6.0\EjercicioClase19-9.AssemblyInfo.cs
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\obj\Debug\net6.0\EjercicioClase19-9.csproj.CoreCompileInputs.cache
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\obj\Debug\net6.0\EjercicioClase19-9.dll
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\obj\Debug\net6.0\refint\EjercicioClase19-9.dll
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\obj\Debug\net6.0\EjercicioClase19-9.pdb
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\obj\Debug\net6.0\EjercicioClase19-9.genruntimeconfig.cache
+C:\Users\more\Desktop\EjerciciosProgra2D-MorenaEscudero\EjercicioClase19-9\obj\Debug\net6.0\ref\EjercicioClase19-9.dll
